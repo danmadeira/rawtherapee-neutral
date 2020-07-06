@@ -9,7 +9,7 @@ Estes arquivos podem ser utilizados tanto na versão gráfica como na versão pa
 Os valores dos parâmetros de configuração estão na posição neutra, sem qualquer efeito na imagem crua.
 
 ### Alguns parâmetros com os valores mínimos e máximos:
-
+```
 \[Exposure\]
 Compensation = -5 .. 0 .. 12
 Brightness = -100 .. 0 .. 100
@@ -56,6 +56,7 @@ X = 0
 Y = 0
 W = 6016
 H = 4014
+```
 
 ### Exemplos de linha de comandos para o RawTherapee CLI:
 
